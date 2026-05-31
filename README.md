@@ -17,6 +17,74 @@ Software Engineer with experience in full-stack web development, API integration
 * 🔍 Interested in Full-Stack Development, AI Applications, and Software Engineering
 
 ---
+# Hi 👋, I'm Vijay Kishore Sunkara
+
+### Software Engineer | Python Developer | Full-Stack Developer
+
+Software Engineer with experience in full-stack web development, API integration, and machine learning solutions.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science (Data Science)
+- 💻 Software Engineer
+- 🏆 Salesforce AI Associate
+- 🏆 Salesforce Agentforce Specialist
+- 🧠 Solved 350+ LeetCode Problems
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijaykishore59&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykishore59&layout=compact)
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+Python • JavaScript • SQL
+
+### Frameworks
+React.js • Flask • Bootstrap • SpaCy
+
+### Databases
+MySQL • SQLite
+
+### Tools
+Git • GitHub • Postman • VS Code
+
+---
+
+## 💼 Internship Experience
+
+### SDE Intern — Bluestock Fintech
+
+- Developed responsive financial dashboards using React.js.
+- Reduced load times by 35% through API optimization.
+
+---
+
+## 🚀 Featured Projects
+
+### Resume Score Checker
+
+ATS-based resume analysis platform.
+
+### Self-Supervised Maritime Anomaly Detection
+
+Analyzed 10K+ AIS records and improved anomaly detection accuracy by 30%.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
 
 ## 🛠 Technical Skills
 
