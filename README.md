@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vijaykishore59/assets/main/Banner.png" width="100%">
 </p>
-### Hi 👋, I'm Vijay Kishore Sunkara
-
+---
+## Hi 👋, I'm Vijay Kishore Sunkara
+ 
 ### Software Engineer | Python Developer | Full-Stack Developer
 
 Software Engineer with experience in full-stack web development, API integration, and machine learning solutions. Skilled in Python, JavaScript, React.js, Flask, SQL, REST APIs, and Git/GitHub. Completed a Software Development Internship at Bluestock Fintech and built projects in ATS-based resume analysis and maritime anomaly detection.
