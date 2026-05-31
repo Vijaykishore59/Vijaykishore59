@@ -123,8 +123,11 @@ Machine learning solution developed using TensorFlow, Scikit-learn, Pandas, and 
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/vijaykishoresunkara/
-* GitHub: https://github.com/Vijaykishore59
-* Portfolio: https://vijaykishore59.github.io/My-Portfolio/
-* Email: [vijaykishoresunkara@gmail.com](mailto:vijaykishoresunkara@gmail.com)
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykishoresunkara/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vijaykishore59.github.io/My-Portfolio/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Vijay_2004DS/)
 
