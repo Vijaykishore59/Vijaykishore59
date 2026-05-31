@@ -123,8 +123,6 @@ Machine learning solution developed using TensorFlow, Scikit-learn, Pandas, and 
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykishoresunkara/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://vijaykishore59.github.io/My-Portfolio/)
