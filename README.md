@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vijaykishore59/assets/main/Banner.png" width="100%">
 </p>
-# Hi 👋, I'm Vijay Kishore Sunkara
+### Hi 👋, I'm Vijay Kishore Sunkara
 
 ### Software Engineer | Python Developer | Full-Stack Developer
 
@@ -125,5 +125,4 @@ Machine learning solution developed using TensorFlow, Scikit-learn, Pandas, and 
 * GitHub: https://github.com/Vijaykishore59
 * Portfolio: https://vijaykishore59.github.io/My-Portfolio/
 * Email: [vijaykishoresunkara@gmail.com](mailto:vijaykishoresunkara@gmail.com)
-
 
