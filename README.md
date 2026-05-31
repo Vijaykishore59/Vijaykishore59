@@ -19,9 +19,9 @@ Software Engineer with experience in full-stack web development, API integration
 ---
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijaykishore59&show_icons=true)
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijaykishore59&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykishore59&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykishore59&layout=compact&theme=default)
 
 ---
 
