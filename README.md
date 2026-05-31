@@ -17,6 +17,13 @@ Software Engineer with experience in full-stack web development, API integration
 * 🔍 Interested in Full-Stack Development, AI Applications, and Software Engineering
 
 ---
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijaykishore59&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaykishore59&layout=compact)
+
+---
 
 ## 🛠 Technical Skills
 
