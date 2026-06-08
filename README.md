@@ -80,15 +80,17 @@ Software Engineer with experience in full-stack web development, API integration
 
 ## 🚀 Featured Projects
 
-### 📄 Resume Score Checker
+### 📄 SmartRail– Intelligent Railway Reservation Platform
 
-ATS-based resume analysis platform built using Flask, SpaCy, SQLite, and PyPDF2.
+Railway reservation platform built using Python, TensorFlow, Scikit-learn, Pandas, NumPy, Mat
+plotlib.
 
 **Highlights**
 
-* Automated resume evaluation and job-description matching.
-* Achieved 90% matching accuracy.
-* Reduced resume analysis time to under 5 seconds.
+* Analyzed 10,000+ AIS vessel trajectory records using self-supervised learning techniques, enabling automated detec
+tion of anomalous maritime activities without extensive labeled datasets.
+* Improved anomaly detection accuracy by 30% through geospatial and temporal feature engineering while reducing
+manual labeling requirements by 50%.
 
 ---
 
